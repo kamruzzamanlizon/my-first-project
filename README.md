@@ -14,7 +14,7 @@ This repository presents practical, reusable examples of my approach to annotati
 - Identifying recurring errors and communicating corrective feedback
 - Supporting and coordinating a 40-person annotation team
 - Quality-focused workflow coordination and delivery follow-up
-- Hands-on experience with **CVAT**
+- Experience working with multiple annotation platforms and project workflows
 
 ## Portfolio contents
 
@@ -26,10 +26,17 @@ This repository presents practical, reusable examples of my approach to annotati
 | [Annotator Feedback Template](docs/annotator-feedback-template.md) | Clear, constructive feedback format |
 | [Team QA Workflow](docs/team-qa-workflow.md) | A repeatable workflow for coordinating a large team |
 
-## Tools and platforms
+## Annotation tools and platforms
 
-- **CVAT** — hands-on annotation workflow experience
-- Other tools/platforms: I am open to learning project-specific tools; I do not claim professional experience with platforms I have not used.
+I have worked with the following annotation platforms and project environments:
+
+- **CVAT**
+- **Supervisely**
+- **Encord**
+- **Labour**
+- **Acuabyte**
+
+Experience includes working within different annotation interfaces, following project-specific guidelines, reviewing annotation output, and adapting to varying task requirements.
 
 ## Working principles
 
